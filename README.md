@@ -8,7 +8,7 @@ Published security research by Alessandro Bertoldi and collaborators.
 
 | Title | Event | Year | Link |
 |-------|-------|------|------|
- Infinity-Day at Scale: Hijacking Registrars, Defeating 2FA and Spoofing 17,000+ Domains | DeepSec Vienna 2025 | 2025 | [PDF](https://github.com/alessandrobertoldi/research/blob/main/Let's%20hack%20all%20the%20things%20.pdf) |
+| Infinity-Day at Scale: Hijacking Registrars, Defeating 2FA and Spoofing 17,000+ Domains | DeepSec Vienna 2025 | 2025 | [PDF](infinity-day-at-scale-deepsec2025.pdf) |
 
 ---
 
